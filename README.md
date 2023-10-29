@@ -14,5 +14,5 @@
 
 #### chrome-extension
 
-* [New-tab-from-search-results](/../../../New-tab-from-search-results)
-* [double-click-to-page-lock](/../../../double-click-to-page-lock)
+* [New-tab-from-search-results](/../../../New-tab-from-search-results) <a href="https://chrome.google.com/webstore/detail/new-tab-from-search-resul/ihkdodgomjaaglplbpkjaphjlahfiihn?hl=ja">&#129133;</a>
+* [double-click-to-page-lock](/../../../double-click-to-page-lock) <a href="https://chrome.google.com/webstore/detail/double-click-to-page-lock/gjlolepdgcfnhdmmbmjhpencplafagpe">&#129133;</a>
