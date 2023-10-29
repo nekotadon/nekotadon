@@ -3,7 +3,7 @@
 
 #### Windows Software
 
-* [SasattoQR](../SasattoQR)
+* [SasattoQR](/../SasattoQR)
 * [RelayPoint](../RelayPoint) 
 * SaisokuFreehand 
 
