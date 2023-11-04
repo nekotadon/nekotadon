@@ -5,7 +5,8 @@
 
 * [SasattoQR](/../../../SasattoQR)
 * [RelayPoint](/../../../RelayPoint) 
-* [SaisokuFreehand](/../../../SaisokuFreehand)
+* [最速フリーハンド](/../../../SaisokuFreehand)
+* [Raptureを起動するだけ](/../../../raptureKidou)
 
 #### Windows Explorer Shell Extension
 
