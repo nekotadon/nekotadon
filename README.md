@@ -6,6 +6,7 @@
 * [SasattoQR](/../../../SasattoQR)
 * [RelayPoint](/../../../RelayPoint) 
 * [最速フリーハンド](/../../../SaisokuFreehand)
+* [最速キャプチャ](/../../../SaisokuCapture)
 * [Raptureを起動するだけ](/../../../raptureKidou)
 * [batfileBootMin/batfileBootHide](/../../../batfileBoot)
 * [pdftables2csv](/../../../pdftables2csv)
