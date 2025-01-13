@@ -10,6 +10,7 @@
 * [Raptureを起動するだけ](/../../../raptureKidou)
 * [batfileBootMin/batfileBootHide](/../../../batfileBoot)
 * [pdftables2csv](/../../../pdftables2csv)
+* [WheelSheetChanger](/../../../WheelSheetChanger)
 
 #### Windows Explorer Shell Extension
 
